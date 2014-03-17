@@ -1,0 +1,16 @@
+{
+	"title": "KM - Guide utilisateur",
+	"tagline": "Le meilleur moyen de gérer les documents de votre entreprise",
+	"docs_path": "docs",
+	"image": "img/app.png",
+	"theme": "red",
+	"template": "default",
+	"float": false,
+	"date_modified": false,
+	"links": {
+		"Télécharger": "https://github.com/rubymen/km/archive/master.zip",
+		"GitHub": "https://github.com/rubymen/km",
+		"Aide/Support/Bugs": "https://github.com/rubymen/km/issues",
+		"Nous contacter": "mailto:rubymen@outlook.com"
+	}
+}
